@@ -3,14 +3,14 @@ body {
 	background-image: url(ccit.JPG);
 	background-repeat: no-repeat;
     overflow: hidden;
-    background-position:top;
-	
+    background-position: top;
+ 
 }
 
 .container {
 	width: 380px;
-    margin-top: 300px;
-    margin-left: 540px;
+    margin-top: 50px;
+    margin-left: 520px;
 	border-radius: 25px;
 	background-color: rgba(0,0,0,0.1);
 	box-shadow: 0 0 17px #333;
@@ -18,7 +18,7 @@ body {
 
 .header {
 	text-align: center;
-	padding-top: 75px;
+	padding-top: 300px;
 }
 
 .header h1 {
