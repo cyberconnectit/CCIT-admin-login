@@ -2,14 +2,15 @@ body {
 	font-family: sans-serif;	
 	background-image: url(ccit.JPG);
 	background-repeat: no-repeat;
-	overflow: hidden;
+    overflow: hidden;
+    background-position:top;
 	
 }
 
 .container {
 	width: 380px;
-    margin-top: 260px;
-    margin-left: 500px;
+    margin-top: 300px;
+    margin-left: 540px;
 	border-radius: 25px;
 	background-color: rgba(0,0,0,0.1);
 	box-shadow: 0 0 17px #333;
